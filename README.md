@@ -34,7 +34,7 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/https://github.com/rashidul-islam-7">
+  <a href="https://github.com/rashidul-islam-7">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=https://github.com/rashidul-islam-7&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="https://github.com/rashidul-islam-7's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=https://github.com/rashidul-islam-7&theme=monokai&hide_border=true&cache_seconds=86400" alt="https://github.com/rashidul-islam-7's GitHub Streak" width="49%" />
