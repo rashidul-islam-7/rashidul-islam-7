@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=https://github.com/rashidul-islam-7">
-    <img src="https://komarev.com/ghpvc/?username=https://github.com/rashidul-islam-7&label=Profile%20views&color=00FFFF&style=flat-square" alt="https://github.com/rashidul-islam-7's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=rashidul-islam-7">
+    <img src="https://komarev.com/ghpvc/?username=rashidul-islam-7&label=Profile%20views&color=00FFFF&style=flat-square" alt="rashidul-islam-7's profile views" />
   </a>
 </p>
 
@@ -35,15 +35,15 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/rashidul-islam-7">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=https://github.com/rashidul-islam-7&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="https://github.com/rashidul-islam-7's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rashidul-islam-7&cache_seconds=7200&layout=compact&theme=synthwave&border_radius=10" alt="rashidul-islam-7's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=https://github.com/rashidul-islam-7&theme=monokai&hide_border=true&cache_seconds=86400" alt="https://github.com/rashidul-islam-7's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=rashidul-islam-7&theme=synthwave&hide_border=true&cache_seconds=86400" alt="rashidul-islam-7's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=https://github.com/rashidul-islam-7&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Md. Rashidul Islam 's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=rashidul-islam-7&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Md. Rashidul Islam 's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/rashidul-islam-7&theme=monokai&radius=10" alt="https://github.com/rashidul-islam-7's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=rashidul-islam-7&theme=synthwave&radius=10" alt="rashidul-islam-7's Activity Graph" />
 </p>
 
 
@@ -90,12 +90,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/https://github.com/rashidul-islam-7">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=https://github.com/rashidul-islam-7&langs_count=8&layout=compact&theme=monokai&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/rashidul-islam-7">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rashidul-islam-7&langs_count=8&layout=compact&theme=synthwave&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=https://github.com/rashidul-islam-7)
+![Top language](https://stats.pphat.top/languages?username=rashidul-islam-7)
 <br/>
 
 ## 🔗 Connect with Me
